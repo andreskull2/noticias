@@ -18,7 +18,7 @@ Projeto de um portal de notícias desenvolvido durante as aulas de Grid na Rocke
 <br>
 
 <p align="center">
-  <img alt="projeto Travelgram" src="github/Thumbnail.png" width="100%">
+  <img alt="projeto Portal de notícias" src="github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -31,15 +31,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Travelgram é uma página de aplicativo de viagens, que simula a interface do aplicativo Instagram.
+Portal de notícias é uma página fictícia de um site de notícias sobre tecnologia.
 
-- [Acesse o projeto finalizado, online](https://andreskull2.github.io/travelgram/)
+- [Acesse o projeto finalizado, online](https://andreskull2.github.io/noticias/)
 
 - [Assistir aulas](https://www.rocketseat.com.br/formacao/fullstack)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1360315496868719817/perfil-de-viagens). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1362166020452569562). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
