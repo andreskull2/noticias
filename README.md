@@ -18,7 +18,7 @@ Projeto de um portal de notícias desenvolvido durante as aulas de Grid na Rocke
 <br>
 
 <p align="center">
-  <img alt="projeto Portal de notícias" src="github/preview.png" width="100%">
+  <img alt="projeto Portal de notícias" src="github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
